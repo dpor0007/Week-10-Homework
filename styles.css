@@ -1,0 +1,18 @@
+#world_map {
+	top:10px;
+	bottom: 100px; 
+	left: 30px;
+	right: 100px;
+	height: 10000px;
+	width: 800px;
+}
+
+#bar_chart {
+	top:-350px;
+	bottom: 100px; 
+	left: 420px;
+	right: 100px;
+	height: 1000px;
+	width: 800px;
+}
+
